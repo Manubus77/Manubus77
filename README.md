@@ -9,6 +9,7 @@ I’m strengthening backend fundamentals (API design, database modeling, testing
 
 ## Quick links
 - Portfolio / Projects: [Pinned repos](https://github.com/Manubus77?tab=repositories)
+- Email: manuelbackend@gmail.com
 - LinkedIn: https://www.linkedin.com/in/manuel-moreno-672924134/
 - Location: Curitiba, Brazil
 
