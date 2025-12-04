@@ -1,4 +1,4 @@
-# 👋 Hi there, 
+# Hi there, 
 
 **I’m Manuel (Manubus77), Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
 I write maintainable server-side code, validate behavior with tests, and document interfaces so others can use and extend them easily.
@@ -7,14 +7,14 @@ I’m strengthening backend fundamentals (API design, database modeling, testing
 
 ---
 
-## ⚡ Quick links
+## Quick links
 - Portfolio / Projects: [Pinned repos](https://github.com/Manubus77?tab=repositories)
 - LinkedIn: https://www.linkedin.com/in/manuel-moreno-672924134/
 - Location: Curitiba, Brazil
 
 ---
 
-## 🚀 Tech Stack (core)
+## Tech Stack (core)
 
 ### Languages & Runtimes
 - **JavaScript (ES6+)**  
@@ -44,7 +44,7 @@ I’m strengthening backend fundamentals (API design, database modeling, testing
 
 ---
 
-## 🧰 Tools I use
+## Tools
 - VS Code / Cursor
 - Postman   
 - pgAdmin  
@@ -54,7 +54,7 @@ I’m strengthening backend fundamentals (API design, database modeling, testing
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🔹 JTracker Backend (In Progress)
 A modular backend API built with **Node.js, Express, Prisma, and PostgreSQL**, following a **TDD** approach with **Mocha, Chai, and Supertest**.
