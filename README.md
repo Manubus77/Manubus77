@@ -1,8 +1,3 @@
-<!-- Animated header (replace the GIF URL if you prefer a different one) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="header" width="100%" />
-</p>
-
 # 👋 Hi — I’m Manuel (Manubus77)
 
 **Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
@@ -66,7 +61,7 @@ A modular backend API built with **Node.js, Express, Prisma, and PostgreSQL**, f
 
 **Key features:**
 - JWT authentication + bcrypt hashing  
-- Layered architecture (model → service → controller)  
+- Layered architecture (model → service → controller → routes)  
 - Prisma ORM with migrations  
 - Zod validation for all inputs  
 - Dedicated test database with isolation
