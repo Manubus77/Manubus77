@@ -1,6 +1,6 @@
 # Hi there, 
 
-**I’m Manuel (Manubus77), Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
+**Manuel here, Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
 I write maintainable server-side code, validate behavior with tests, and document interfaces so others can use and extend them easily.
 
 I’m strengthening backend fundamentals (API design, database modeling, testing) while shipping small, well-documented projects.
