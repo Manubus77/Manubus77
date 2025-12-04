@@ -122,11 +122,6 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 
 </div>
 
-<!-- Activity graph (contributions heatmap-like) -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Manubus77&theme=github" alt="contributions-graph"/>
-</p>
-
 ---
 
 ## 🔖 Badges & Metrics
