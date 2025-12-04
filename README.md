@@ -136,10 +136,6 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 ---
 
 ## 🔖 Badges & Metrics
-
-![Repo count](https://img.shields.io/github/repo-size/Manubus77/Manubus77?style=flat)
-![Last commit](https://img.shields.io/github/last-commit/Manubus77/Manubus77?style=flat)
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Manuel%20Moreno-Backend%20Engineer-00ACC1?style=for-the-badge">
