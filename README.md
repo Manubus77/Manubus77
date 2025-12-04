@@ -124,15 +124,6 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 
 ---
 
-## 🔖 Badges & Metrics
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Manuel%20Moreno-Backend%20Engineer-00ACC1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Manuel%20Moreno-Backend%20Engineer-0A66C2?style=for-the-badge" alt="Manuel Moreno - Backend Engineer" />
-</picture>
-
----
-
 ## 📬 Connect
 
 - LinkedIn: https://www.linkedin.com/in/manuel-moreno-672924134/
