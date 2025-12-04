@@ -1,6 +1,6 @@
-# 👋 Hi — I’m Manuel (Manubus77)
+# 👋 Hi there, 
 
-**Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
+**I’m Manuel (Manubus77), Junior Backend Engineer** focused on building reliable, well-structured APIs with **Node.js, Express, and PostgreSQL**.  
 I write maintainable server-side code, validate behavior with tests, and document interfaces so others can use and extend them easily.
 
 I’m strengthening backend fundamentals (API design, database modeling, testing) while shipping small, well-documented projects.
@@ -137,7 +137,6 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 
 ## 🔖 Badges & Metrics
 
-![GitHub followers](https://img.shields.io/github/followers/Manubus77?label=Follow&style=social)
 ![Repo count](https://img.shields.io/github/repo-size/Manubus77/Manubus77?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/Manubus77/Manubus77?style=flat)
 
