@@ -107,7 +107,7 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 |---|---|
 | Backend | Node.js, Express, REST API design, middleware |
 | Databases | PostgreSQL, SQL queries, schema design |
-| Testing | Mocha, Chai, test structure, mocks |
+| Testing | Mocha, Chai, Supetest |
 | Tools | Git, GitHub, Postman, VS Code |
 | Practices | Error handling, logging, environment config, documentation |
 
@@ -116,12 +116,6 @@ A small JavaScript app demonstrating modular ES6 code and good test coverage.
 ## 📊 Activity & Dynamic Stats
 
 <div align="center">
-
-<!-- GitHub Readme Stats (dynamic) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Manubus77&show_icons=true&count_private=true&theme=default" alt="Manuel's GitHub Stats" />
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manubus77&layout=compact&theme=default" alt="Top Languages" />
 
 <!-- Contribution streak / calendar -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manubus77&theme=default" alt="GitHub Streak" />
